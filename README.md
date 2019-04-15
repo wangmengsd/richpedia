@@ -20,7 +20,7 @@ further exploring textual and visual facts on either side. To fill this gap, we
 provide a comprehensive multi-modal dataset (called **Richpedia**) in this paper, as shown in figure below.
 ![](pic/intro.jpg)
 
-In summary, our Richpedia data resource mainly makes the following contributions:
+In summary, our **Richpedia** data resource mainly makes the following contributions:
 * To our best knowledge, we are the first to provide comprehensive visualrelational resources to general knowledge graphs. The result is a big and
 high-quality multi-modal knowledge graph dataset, which provides a wider
 data scope to the researchers from The Semantic Web and Computer Vision.
