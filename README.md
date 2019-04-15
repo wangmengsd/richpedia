@@ -1,6 +1,6 @@
 # Richpedia: A Comprehensive Multi-Modal Knowledge Graph
 
-# Introduce
+# Introduction
 
 With the rapid development of Semantic Web technologies, various knowledge graphs are published on the Web using Resource Description Framework (RDF), such as Wikidata and DBpedia. Knowledge graphs provide for setting RDF
 links among different entities, thereby forming a large heterogeneous graph, supporting semantic search, question answering and other intelligent services.
