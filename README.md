@@ -70,7 +70,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
   Add images and triples of relationship.
 
-# More infomation
+# More information
 
 [Github Pages](https://github.com/StephanieTM/article)
 
