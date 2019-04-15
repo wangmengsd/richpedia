@@ -17,7 +17,7 @@ considering textual and visual features together.
 As mentioned above, general knowledge graphs focus on the textual facts.
 There is still no comprehensive multi-modal knowledge graph dataset prohibiting
 further exploring textual and visual facts on either side. To fill this gap, we
-provide a comprehensive multi-modal dataset (called Richpedia) in this paper, as shown in figure
+provide a comprehensive multi-modal dataset (called Richpedia) in this paper, as shown in figure.
 ![](pic/intro.jpg)
 
 In summary, our Richpedia data resource mainly makes the following contributions:
