@@ -60,7 +60,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 # Contact
 
-<li>Meng Wang <a href="mailto:wangmengsd@stu.xjtu.edu.cn">wangmengsd@stu.xjtu.edu.cn</a></li>
+<li>Meng Wang <a href="mailto:meng.wang@seu.edu.cn">meng.wang@seu.edu.cn</a></li>
 
 <li>Qiushuo Zheng <a href="mailto:qs_zheng@seu.edu.cn">qs_zheng@seu.edu.cn</a></li>
 
